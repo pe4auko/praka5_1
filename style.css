@@ -1,0 +1,24 @@
+article {
+    width: 31%;
+    border: 2px dotted rgb(2, 2, 2);
+    display: inline-flex;
+    align-items: center;
+    gap: 15px;
+    padding: 5px;
+    margin: 2px;
+    color: rgb(7, 7, 7);
+}
+
+img {
+    width: 80px;
+    object-fit: cover;
+    margin-left: 20px;
+}
+
+article div {
+    width: 100%;
+    text-align: center;
+}
+body{
+    background-color: #ffffff;
+}
